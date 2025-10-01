@@ -33,3 +33,8 @@ module.exports = {
         pancakeswap: '0x10ED43C718714eb63d5aA57B78B54704E256024E'
     }
 };
+// Новая функция добавлена 2025-10-01
+function newFeature() {
+    console.log('Новая функция работает!');
+    return true;
+}

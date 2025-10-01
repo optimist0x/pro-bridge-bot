@@ -1,3 +1,4 @@
+// Обновлено 2025-10-01 13:43:00
 const { ethers } = require('ethers');
 require('dotenv').config();
 
